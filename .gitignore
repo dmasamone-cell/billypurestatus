@@ -1,0 +1,7 @@
+node_modules/
+uploads/
+auth_info/
+database.json
+qr.png
+*.log
+.env
